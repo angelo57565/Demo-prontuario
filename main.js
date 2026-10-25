@@ -1,0 +1,5 @@
+/* Prumo — Inicialização */
+
+applyPref();
+
+render();
